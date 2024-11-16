@@ -3,7 +3,6 @@ title: This is a new post
 date: 2024-07-27
 description: new college
 authors: ["zuofei"]
-  
 ---
 # Statement of Purpose
 As an embryologist I am in a unique position, giving hope to patients. My primary role involves performing procedures like gamete manipulation, embryo culture, embryo biopsy for preimplantation genetic screening/testing, counseling patients about their prognosis, and managing my department's operations. It brings me so much joy seeing patients embrace babies after a successful IVF(In-vitro fertilization) cycle and when cancer patients secure their reproductive potential by freezing their eggs or ovarian tissue. My job is incredibly fulfilling. 

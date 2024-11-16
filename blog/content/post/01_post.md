@@ -6,6 +6,8 @@ authors: ["zuofei"]
 
 ---
 
+![image name](/images/01_post.png)
+
 Hormones are fascinating indeed. The function of each is so intricate which makes it even more unfathomable as to how perfectly they function in concert with each other in a normal self. Despite exposing this self to food, drugs and other chemicals. Since I am majoring in reproductive science I spend my time reading mostly related topics. Hence, I will be writing about the hormones respective to that.
 
 It is known that GnRH is secreted by the Hypothalamus which in turn stimulates the master gland, the pituitary to release the gonadotropins (a.k.a sex hormones) which then proceeds further in performing its various functions. How simple. Little did I know that it takes so much more than this. So, as I started reading more about GnRH I was introduced to several other hormones that also help in its secretion and inhibition.
